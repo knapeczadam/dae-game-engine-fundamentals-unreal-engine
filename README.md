@@ -77,8 +77,3 @@ The challenge lay in combining visual scripting with coherent gameplay logic —
 
 ### ⚖️ License
 This repository is licensed under the **MIT License** — feel free to explore, learn, or adapt anything useful.
-
----
-
-*Made with Unreal Engine 5, logic, and a glimpse of inevitability 🧠  
-— Ádám*
